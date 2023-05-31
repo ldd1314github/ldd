@@ -1,0 +1,12 @@
+﻿  Main.cpp
+D:\学习资料\面向对象程序设计\ldd折线\Main.cpp(98,53): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\学习资料\面向对象程序设计\ldd折线\Main.cpp(98,45): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\学习资料\面向对象程序设计\ldd折线\Main.cpp(98,37): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\学习资料\面向对象程序设计\ldd折线\Main.cpp(98,29): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\学习资料\面向对象程序设计\ldd折线\Main.cpp(191,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\学习资料\面向对象程序设计\ldd折线\Main.cpp(206,50): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\学习资料\面向对象程序设计\ldd折线\Main.cpp(206,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\学习资料\面向对象程序设计\ldd折线\Main.cpp(208,37): warning C4305: “参数”: 从“double”到“float”截断
+D:\学习资料\面向对象程序设计\ldd折线\Main.cpp(221,37): warning C4305: “参数”: 从“double”到“float”截断
+D:\学习资料\面向对象程序设计\ldd折线\Main.cpp(234,23): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+  ldd折线.vcxproj -> D:\学习资料\面向对象程序设计\ldd折线\x64\Debug\ldd折线.exe
